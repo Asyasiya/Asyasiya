@@ -1,6 +1,6 @@
-[![Header](https://github.com/Asyasiya/Asyasiya/blob/main/assets/HEADER.png)]
+![Header](https://github.com/Asyasiya/Asyasiya/blob/main/assets/HEADER.png)
 
-About me
+## Я начинающий QA инженер. Хочу участовать в создании и поддержании качественного продукта для людей.
 
 Languages and Tools
 
