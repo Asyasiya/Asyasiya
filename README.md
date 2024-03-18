@@ -11,3 +11,6 @@
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-430023?style=for-the-badge&logo=Telegram)](https://t.me/Asyasiya)
+
+[![Asyasiya's github stats](https://github-readme-stats.vercel.app/api?username=asyasiya
+)](https://github.com/asyasiya/github-readme-stats)
