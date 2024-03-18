@@ -9,4 +9,5 @@
 ![youtrack](https://img.shields.io/badge/-youtrack-430023?style=for-the-badge&logo=youtrack)
 ![Git](https://img.shields.io/badge/-Git-430023?style=for-the-badge&logo=Git)
 
-Follow Me
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-430023?style=for-the-badge&logo=Telegram)](https://t.me/Asyasiya)
